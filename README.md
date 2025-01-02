@@ -6,15 +6,15 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Table of contents
 
-◾[The challenge](#the-challenge-muscle)
+🔳 [The challenge](#the-challenge-muscle)
 
-◾[Screenshots](#screenshots-camera)
+🔳 [Screenshots](#screenshots-camera)
 
-◾[Links](#links-link)
+🔳 [Links](#links-link)
 
-◾[Built with](#built-with-hammer_and_pick)
+🔳 [Built with](#built-with-hammer_and_pick)
 
-◾[Author](#author-beginner)
+🔳 [Author](#author-beginner)
 
 
 ## The challenge :muscle: 
@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links :link:
 
-<!-- [Solution in Frontend Mentor](https://your-solution-url.com) 👈 -->
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-grid-1jS9_URBYS) 👈
 
 [Live site URL here](https://mendezpvi.github.io/fem-single-price-grid/) 👈
 
